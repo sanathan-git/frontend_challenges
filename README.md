@@ -1,2 +1,2 @@
-# frontend_challenges
+# frontend_mentor
 Frontend repos
